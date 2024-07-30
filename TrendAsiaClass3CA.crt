@@ -1,0 +1,132 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3106353703731275415 (0x2b1bfc3c419f2697)
+        Signature Algorithm: sha512WithRSAEncryption
+        Issuer: O=Trend Asia, CN=Trend Asia Certificate Authority
+        Validity
+            Not Before: Jul 18 16:42:00 2024 GMT
+            Not After : Jul 18 16:42:00 2034 GMT
+        Subject: CN=Trend Asia Class 3 CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:ab:91:80:84:0a:3e:d8:0f:ef:cd:dd:36:39:a4:
+                    6a:19:29:63:d7:a3:6a:0d:33:4f:c1:30:d7:37:4e:
+                    91:9d:18:de:78:2d:a2:79:01:25:a7:ff:84:3a:be:
+                    19:95:d9:30:30:7d:2e:af:a5:9c:74:a6:90:2e:63:
+                    e9:cf:68:32:2e:26:77:19:25:f9:38:05:f1:99:9f:
+                    21:0f:c9:43:5f:c4:8a:50:5f:33:7b:8d:8a:b4:ee:
+                    b5:a9:18:e9:cb:44:73:f5:b6:cb:3f:32:6e:9d:ad:
+                    9c:e2:78:77:63:72:d2:06:7d:92:4f:f5:c3:3b:a8:
+                    f4:65:94:ae:e6:f8:12:63:8b:05:74:dd:ed:c4:8d:
+                    81:e3:96:c3:c3:a6:71:c5:a0:9d:35:5d:c6:a1:a6:
+                    50:00:de:8f:9a:45:81:be:cb:fe:35:c0:ea:d8:b6:
+                    a1:7e:b0:b1:ed:29:25:12:d4:8c:e9:82:e8:66:3b:
+                    52:74:7a:ad:d7:b6:35:23:8b:d8:5f:56:3a:ea:99:
+                    db:c8:2f:14:9f:35:33:74:89:d6:1d:04:9f:ae:81:
+                    db:7e:5f:e1:3a:c1:94:c9:e6:5d:f8:1b:2a:a1:e5:
+                    59:7d:92:bb:2b:2f:df:91:f3:95:fc:15:a3:9e:2c:
+                    ec:8a:09:ff:4f:51:5d:fc:c2:e4:a1:42:5e:c9:56:
+                    11:35:9a:9f:bb:ec:64:6c:ef:b2:1f:b7:60:8d:41:
+                    56:8d:b1:41:80:d5:7b:d1:bf:8c:46:d1:a8:cf:2f:
+                    5a:12:0f:64:6e:cb:f8:93:99:9a:86:57:5e:50:c2:
+                    8a:c0:70:29:9b:44:cd:fd:6b:ce:7d:4f:b3:60:d8:
+                    0a:82:0e:3f:e6:33:d5:ba:f2:0e:46:c9:6d:c1:97:
+                    b7:2b:ee:c5:4a:6d:a5:e7:91:52:89:73:53:28:9c:
+                    22:0a:4a:32:7b:a3:d2:f9:b5:bd:b7:e9:89:76:7f:
+                    f8:20:b8:79:41:86:1e:ce:2c:29:0a:2b:29:5d:b5:
+                    d7:4c:77:b8:9f:b1:bf:d8:91:f2:f1:cc:b8:ea:ec:
+                    b2:34:97:a7:74:94:91:26:09:dd:df:76:e2:62:94:
+                    94:74:c3:f3:d7:d1:8c:27:b2:f9:20:8b:6b:93:0d:
+                    b2:5a:6c:24:bb:35:cc:9c:3c:c8:e8:60:86:13:6e:
+                    65:90:2c:52:60:d5:30:72:86:5e:f2:80:71:92:f0:
+                    a5:1e:d0:d8:2b:0c:b2:82:b4:22:7f:8f:11:00:eb:
+                    14:7c:a3:0f:29:e8:05:aa:35:ee:1f:9d:10:e5:84:
+                    b2:7c:90:88:c6:4b:75:ae:89:1c:7e:1a:3c:31:41:
+                    5f:86:bd:85:a9:b9:18:20:fb:a9:e7:ef:86:5d:bc:
+                    fb:5a:3d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                15:A9:CD:05:D7:4F:B6:1B:98:26:CC:75:04:52:FA:92:39:7C:6B:7A
+            X509v3 Authority Key Identifier: 
+                C7:1D:65:8E:0C:41:0B:D1:80:82:F4:9F:B6:11:CB:73:9F:EB:27:CC
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:https://pki.trendasia.org/TrendAsiaCertificateAuthority.crl
+            Authority Information Access: 
+                CA Issuers - URI:https://pki.trendasia.org/TrendAsiaCertificateAuthority.crt
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: 
+                Digital Signature, Certificate Sign, CRL Sign
+            Netscape Cert Type: 
+                SSL CA, S/MIME CA, Object Signing CA
+    Signature Algorithm: sha512WithRSAEncryption
+    Signature Value:
+        7a:78:26:1d:0f:30:1e:46:2a:42:ab:ed:e5:1b:f0:67:4c:42:
+        b0:88:81:f0:98:da:44:e8:2e:1a:c1:37:90:ed:d4:92:78:21:
+        c7:15:82:87:ee:38:c7:1a:46:b4:b7:d1:aa:ca:1a:cc:6b:67:
+        21:4e:1e:5b:db:f5:c3:8e:98:90:48:0e:f4:db:c1:ce:a4:40:
+        04:e7:76:9f:f4:b5:f8:8c:41:11:ac:02:7f:a2:c2:60:08:f1:
+        8d:ee:f0:be:2f:92:63:0c:ee:ae:f9:a6:37:a0:c3:02:5e:02:
+        eb:89:58:09:f6:a0:85:7a:ea:ff:49:a6:b3:13:2d:0b:70:46:
+        44:21:ce:c9:6a:71:e5:f0:8c:ec:1c:f3:7d:db:c5:5d:c3:b6:
+        29:a4:6e:83:0d:96:13:67:37:4a:4c:21:94:c0:f9:84:84:05:
+        82:ba:c2:e1:b4:af:40:49:c1:69:6d:f0:6c:ff:57:39:a1:c3:
+        fc:23:52:1e:79:90:79:51:15:31:7b:f4:67:7e:b7:b4:00:c1:
+        9e:ca:0b:15:c5:29:01:0a:73:41:5e:47:4d:01:e5:3d:89:74:
+        64:3f:7a:c3:54:63:da:c9:08:4a:9a:d3:d9:e5:a1:72:39:0a:
+        1a:b2:31:d9:94:55:1b:de:7d:e8:b7:b8:9f:f5:82:ff:27:2c:
+        46:64:2e:92:ba:5c:1e:ce:8a:a3:9f:f7:27:e1:47:28:2b:e5:
+        32:1d:f1:8f:c2:ba:db:34:df:ad:33:14:a4:85:bf:de:ee:04:
+        ba:09:8a:5d:76:24:67:8f:12:66:41:f4:a7:37:62:31:47:0e:
+        ba:e3:2d:f9:89:1b:c9:ef:39:19:31:3e:56:05:b6:42:68:dd:
+        2f:84:da:16:aa:3c:22:8c:cb:ac:ef:86:f0:0d:3f:2a:d3:07:
+        21:69:74:ed:b5:3c:66:bc:6d:eb:f0:91:d8:e5:d3:ed:7b:e0:
+        73:75:10:e1:46:45:42:64:bd:85:c0:cb:e8:c1:9e:68:46:c5:
+        d1:bb:28:d6:d5:2d:4a:06:8a:38:2a:5d:44:a8:f7:79:af:da:
+        ae:f8:f8:53:4b:9f:66:f2:76:10:ac:c4:ff:03:4d:94:ab:77:
+        36:8b:f4:c7:52:8a:7e:9a:fa:bf:ae:e3:89:10:5c:d3:5c:5a:
+        b3:da:09:48:b3:bd:97:73:9a:ac:cb:24:bd:b7:b0:99:32:58:
+        7c:37:e3:de:7d:5a:3c:e9:7e:d4:b9:20:ae:73:fe:27:1a:be:
+        fb:e6:30:d8:04:70:ad:64:45:09:50:c9:96:8b:02:71:ad:d4:
+        0d:a9:f1:a3:c3:7f:bc:42:17:70:18:00:03:a2:66:ec:fc:59:
+        7c:5e:1e:46:55:bc:dd:f9
+-----BEGIN CERTIFICATE-----
+MIIGADCCA+igAwIBAgIIKxv8PEGfJpcwDQYJKoZIhvcNAQENBQAwQDETMBEGA1UE
+ChMKVHJlbmQgQXNpYTEpMCcGA1UEAxMgVHJlbmQgQXNpYSBDZXJ0aWZpY2F0ZSBB
+dXRob3JpdHkwHhcNMjQwNzE4MTY0MjAwWhcNMzQwNzE4MTY0MjAwWjAgMR4wHAYD
+VQQDExVUcmVuZCBBc2lhIENsYXNzIDMgQ0EwggIiMA0GCSqGSIb3DQEBAQUAA4IC
+DwAwggIKAoICAQCrkYCECj7YD+/N3TY5pGoZKWPXo2oNM0/BMNc3TpGdGN54LaJ5
+ASWn/4Q6vhmV2TAwfS6vpZx0ppAuY+nPaDIuJncZJfk4BfGZnyEPyUNfxIpQXzN7
+jYq07rWpGOnLRHP1tss/Mm6drZzieHdjctIGfZJP9cM7qPRllK7m+BJjiwV03e3E
+jYHjlsPDpnHFoJ01XcahplAA3o+aRYG+y/41wOrYtqF+sLHtKSUS1IzpguhmO1J0
+eq3XtjUji9hfVjrqmdvILxSfNTN0idYdBJ+ugdt+X+E6wZTJ5l34Gyqh5Vl9krsr
+L9+R85X8FaOeLOyKCf9PUV38wuShQl7JVhE1mp+77GRs77Ift2CNQVaNsUGA1XvR
+v4xG0ajPL1oSD2Ruy/iTmZqGV15QworAcCmbRM39a859T7Ng2AqCDj/mM9W68g5G
+yW3Bl7cr7sVKbaXnkVKJc1MonCIKSjJ7o9L5tb236Yl2f/gguHlBhh7OLCkKKyld
+tddMd7ifsb/YkfLxzLjq7LI0l6d0lJEmCd3fduJilJR0w/PX0Ywnsvkgi2uTDbJa
+bCS7NcycPMjoYIYTbmWQLFJg1TByhl7ygHGS8KUe0NgrDLKCtCJ/jxEA6xR8ow8p
+6AWqNe4fnRDlhLJ8kIjGS3WuiRx+GjwxQV+GvYWpuRgg+6nn74ZdvPtaPQIDAQAB
+o4IBHDCCARgwHQYDVR0OBBYEFBWpzQXXT7YbmCbMdQRS+pI5fGt6MB8GA1UdIwQY
+MBaAFMcdZY4MQQvRgIL0n7YRy3Of6yfMMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHBz
+Oi8vcGtpLnRyZW5kYXNpYS5vcmcvVHJlbmRBc2lhQ2VydGlmaWNhdGVBdXRob3Jp
+dHkuY3JsMFcGCCsGAQUFBwEBBEswSTBHBggrBgEFBQcwAoY7aHR0cHM6Ly9wa2ku
+dHJlbmRhc2lhLm9yZy9UcmVuZEFzaWFDZXJ0aWZpY2F0ZUF1dGhvcml0eS5jcnQw
+DwYDVR0TAQH/BAUwAwEB/zALBgNVHQ8EBAMCAYYwEQYJYIZIAYb4QgEBBAQDAgAH
+MA0GCSqGSIb3DQEBDQUAA4ICAQB6eCYdDzAeRipCq+3lG/BnTEKwiIHwmNpE6C4a
+wTeQ7dSSeCHHFYKH7jjHGka0t9GqyhrMa2chTh5b2/XDjpiQSA7028HOpEAE53af
+9LX4jEERrAJ/osJgCPGN7vC+L5JjDO6u+aY3oMMCXgLriVgJ9qCFeur/SaazEy0L
+cEZEIc7JanHl8IzsHPN928Vdw7YppG6DDZYTZzdKTCGUwPmEhAWCusLhtK9AScFp
+bfBs/1c5ocP8I1IeeZB5URUxe/Rnfre0AMGeygsVxSkBCnNBXkdNAeU9iXRkP3rD
+VGPayQhKmtPZ5aFyOQoasjHZlFUb3n3ot7if9YL/JyxGZC6Sulwezoqjn/cn4Uco
+K+UyHfGPwrrbNN+tMxSkhb/e7gS6CYpddiRnjxJmQfSnN2IxRw664y35iRvJ7zkZ
+MT5WBbZCaN0vhNoWqjwijMus74bwDT8q0wchaXTttTxmvG3r8JHY5dPte+BzdRDh
+RkVCZL2FwMvowZ5oRsXRuyjW1S1KBoo4Kl1EqPd5r9qu+PhTS59m8nYQrMT/A02U
+q3c2i/THUop+mvq/ruOJEFzTXFqz2glIs72Xc5qsyyS9t7CZMlh8N+PefVo86X7U
+uSCuc/4nGr775jDYBHCtZEUJUMmWiwJxrdQNqfGjw3+8QhdwGAADombs/Fl8Xh5G
+Vbzd+Q==
+-----END CERTIFICATE-----
